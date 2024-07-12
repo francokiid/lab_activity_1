@@ -1,12 +1,12 @@
 # Portfolio App
-Explore my dynamic portfolio through a sleek and intuitive Flutter web application. This app employs TabBar and TabBarView widgets to seamlessly organize and present diverse facets of my portfolio. Each tab represents a distinct category—whether showcasing projects, highlighting skills, or providing contact information—offering an engaging and structured browsing experience.
+Explore my dynamic portfolio through a sleek and intuitive Flutter web application. This app employs TabBar and TabBarView widgets to seamlessly organize and present diverse facets of my portfolio. Each tab represents a distinct category, offering an engaging and structured browsing experience.
 
 In particular, this Flutter app serves as a digital portfolio to showcase my:
-- personal background
-- educational attainment
-- skills
-- interests
-- contact information
+- Personal Background
+- Educational Attainment
+- Skills
+- Interests
+- Contact Information
 
 ## Key Features
 - TabBar Navigation: Effortlessly switch between different sections.
