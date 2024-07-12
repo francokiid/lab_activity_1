@@ -9,6 +9,10 @@ This Flutter app serves as a digital portfolio to showcase my:
 - interests
 - contact information
 
+## Technologies Used
+- Flutter: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Dart: Programming language used to write Flutter apps.
+  
 ## Screenshots
 ### Personal Background
 ![1-personal-bg](https://github.com/francokiid/lab_activity_1/blob/main/screenshots/1_personal_bg.png)
@@ -20,3 +24,7 @@ This Flutter app serves as a digital portfolio to showcase my:
 ![4-interests](https://github.com/francokiid/lab_activity_1/blob/main/screenshots/4_interests.png)
 ### Contact Information
 ![5-contact](https://github.com/francokiid/lab_activity_1/blob/main/screenshots/5_contact.png)
+
+
+## Prerequisites
+Before you begin, ensure you have Flutter installed. If not, you can install it from the [official Flutter website](https://flutter.dev/docs/get-started/install).
