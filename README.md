@@ -1,7 +1,7 @@
-## Portfolio App
+# Portfolio App
 A web application developed using Flutter to showcase my portfolio.
 
-# Description
+## Description
 This Flutter app serves as a digital portfolio to showcase my:
 - personal background
 - educational attainment
@@ -10,3 +10,8 @@ This Flutter app serves as a digital portfolio to showcase my:
 - contact information
 
 # Screenshots
+### Personal Background
+### Educational Attainment
+### Skills
+### Interests
+### Contact Information
