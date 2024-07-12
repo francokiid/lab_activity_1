@@ -23,7 +23,7 @@ class ContactView extends StatelessWidget {
             ),
           ),
         ),
-        isLargeScreen ? SizedBox(height: 50) : SizedBox(height: 50),
+        isLargeScreen ? SizedBox(width: 50) : SizedBox(height: 50),
         const Expanded(
           child: GradientContainer(
             padding: 50,
