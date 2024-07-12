@@ -1,14 +1,18 @@
 # Portfolio App
-A web application developed using Flutter to showcase my portfolio.
+Explore my dynamic portfolio through a sleek and intuitive Flutter web application. This app employs TabBar and TabBarView widgets to seamlessly organize and present diverse facets of my portfolio. Each tab represents a distinct category—whether showcasing projects, highlighting skills, or providing contact information—offering an engaging and structured browsing experience.
 
-## Description
-This Flutter app serves as a digital portfolio to showcase my:
+In particular, this Flutter app serves as a digital portfolio to showcase my:
 - personal background
 - educational attainment
 - skills
 - interests
 - contact information
 
+## Key Features
+- TabBar Navigation: Effortlessly switch between different sections.
+- TabBarView Content: Each tab dynamically displays relevant content, ensuring clarity and focus as you navigate through the app.
+- Flutter's Performance: Enjoy smooth and responsive interactions thanks to Flutter's efficient rendering.
+  
 ## Technologies Used
 - Flutter: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - Dart: Programming language used to write Flutter apps.
@@ -25,6 +29,9 @@ This Flutter app serves as a digital portfolio to showcase my:
 ### Contact Information
 ![5-contact](https://github.com/francokiid/lab_activity_1/blob/main/screenshots/5_contact.png)
 
-
-## Prerequisites
-Before you begin, ensure you have Flutter installed. If not, you can install it from the [official Flutter website](https://flutter.dev/docs/get-started/install).
+## How to Run
+1. Before you begin, ensure you have Flutter installed. If not, you can install it from the [official Flutter website](https://flutter.dev/docs/get-started/install).
+2. Clone the repository: git clone https://github.com/francokiid/lab_activity_1.git
+3. Navigate into the project directory: cd lab_activity_1
+4. Get dependencies: flutter pub get
+5. Run the web app: flutter run -d chrome
