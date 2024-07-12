@@ -1,4 +1,4 @@
-# Portfolio App
+# Portfolio Web App
 Explore my dynamic portfolio through a sleek and intuitive Flutter web application. This app employs TabBar and TabBarView widgets to seamlessly organize and present diverse facets of my portfolio. Each tab represents a distinct category, offering an engaging and structured browsing experience.
 
 In particular, this Flutter app serves as a digital portfolio to showcase my:
